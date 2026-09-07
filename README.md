@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Collins Rotich 👋
 
-<!--
-**pele1610/pele1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software developer building with **React** and **Flask**. Completed Software Engineering training at **Moringa School**, and working as a Software Engineer at **Quantum Analytics Company**. Passionate about building tech for real community problems — from agriculture to language preservation.
 
-Here are some ideas to get you started:
+- 🌱 Currently sharpening my coding skills, also learning Elixir and Erlang
+- 🇰🇪 Based in Nairobi, Kenya
+- 💬 Ask me about React, Flask, or M-Pesa API integration
+- 📫 collinskirotich797716@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React (Vite), Redux Toolkit, Tailwind CSS, Axios, React Router
+**Backend:** Python, Flask, SQLAlchemy, Flask-JWT-Extended, Marshmallow
+**Databases:** PostgreSQL, SQLite
+**Testing:** Jest, Vitest, pytest, Minitest
+**Tools:** Git, GitHub Actions, pipenv, Linux (Ubuntu), VS Code
+**Integrations:** M-Pesa Daraja API, Africa's Talking SMS API
+
+## 🚀 Featured Projects
+
+### [Sauti ya Wakulima](https://github.com/pele1610) — "Voice of the Farmers"
+Agricultural marketplace connecting smallholder avocado farmers directly with buyers. Role-based auth (Farmer/Buyer/Admin), M-Pesa and SMS integration, deployed on Render + Vercel.
+
+
+## 📊 GitHub Stats
+
+![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=pele1610&show_icons=true&theme=default)
+
+---
+📍 Nairobi, Kenya | [LinkedIn](https://linkedin.com/in/collinsrotich)
