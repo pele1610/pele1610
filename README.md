@@ -1,6 +1,10 @@
 <div align="center">
 
+### Full-Stack Developer | Building products that solve real problems for real communities
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B4332&center=true&vCenter=true&width=600&lines=Flask+%2B+React+full-stack+developer;Building+Sauti+ya+Wakulima+%F0%9F%A5%91;Currently+learning+Elixir+%26+Erlang;Turning+client+ideas+into+shipped+products" alt="Typing SVG" />
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-pele1610-181717?style=for-the-badge&logo=github)](https://github.com/pele1610)
 [![Location](https://img.shields.io/badge/Based%20in-Kenya-1B4332?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -9,24 +13,21 @@
 
 ---
 
-## 💫 About Me:
+## 🧑🏾‍💻 About Me
 
-- 🔭 I'm currently working on **Sauti ya Wakulima**, an agricultural marketplace connecting farmers directly to buyers
-- 👯 I'm looking to collaborate on **agri-tech and community-impact projects, or anything solving a real problem**
-- 🌱 I'm currently learning **Elixir and Erlang**
-- 💬 Ask me about **building full-stack apps with React/Flask, M-Pesa integrations**
+I'm a full-stack developer who builds with **React on the frontend** and **Flask/PostgreSQL on the backend**, and I care most about products that are genuinely useful in my own community — from a farmer-to-buyer marketplace to a butchery's day-to-day operations.
 
----
-
-## 🌐 Socials:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pele1610)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+- 🔭 Currently building **Sauti ya Wakulima**, an agricultural marketplace connecting farmers directly to buyers
+- 🌱 Currently learning **Elixir** and **Erlang**
+- 👯 Looking to collaborate on **agri-tech and community-impact projects, or anything solving a real problem**
+- 💬 Ask me about **building full-stack apps with React/Flask, and M-Pesa integrations**
+- 🍖 Recently shipped a full operations + ordering site for a local butchery client
+- 🗣️ Passionate about tech for cultural and community impact — including a planned Kalenjin language-learning platform
+- 🛠️ Comfortable owning a feature end-to-end: schema → API → auth → UI → deploy
 
 ---
 
-## 💻 Tech Stack:
+## 🧰 Tech Stack
 
 **Languages & Runtimes**
 
@@ -59,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pele1610&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=adff2f&icon_color=adff2f&text_color=ffffff" alt="Pele's GitHub stats" />
@@ -68,4 +69,24 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pele1610&theme=dark&hide_border=true&background=0d1117&ring=adff2f&fire=adff2f" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌍 What I Care About
+
+I'm especially drawn to projects where software removes friction for people who are usually underserved by tech — farmers negotiating fair prices, a small business owner tracking daily sales for a loan application, or a community trying to keep its language alive. That's the thread connecting everything above, and it's the kind of work I want to keep doing.
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pele1610)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+*Open to full-stack opportunities and interesting collaborations.*
+
 </div>
