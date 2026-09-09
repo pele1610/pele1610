@@ -66,12 +66,18 @@ I'm a full-stack developer who builds with **React on the frontend** and **Flask
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pele1610&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=adff2f&icon_color=adff2f&text_color=ffffff" alt="Pele's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pele1610&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=adff2f&text_color=ffffff" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=pele1610&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Pele's GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pele1610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pele1610&theme=dark&hide_border=true&background=0d1117&ring=adff2f&fire=adff2f" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=pele1610&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=pele1610&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 ---
